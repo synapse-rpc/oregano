@@ -6,7 +6,7 @@ The components make communications use json with RabbitMQ.
 
 ## Communication Protocol
 
-> 1. EventServer
+> 1. [EventServer](https://github.com/synapse-rpc/synapse/blob/master/EventServer.md)
 > 2. EventClient
 > 3. RpcServer
 > 4. RpcClient
